@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584611550564.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1496550",
+    "lastKnownWriteTime" : 1584611541,
+    "last_content_update" : 1584611550564,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "8c1d94171d8f46f29c4fad08a8e0acf0",
+        "name" : "sim",
+        "title" : "sim"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

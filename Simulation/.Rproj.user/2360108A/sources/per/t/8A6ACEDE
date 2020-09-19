@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581999485532.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3195685251",
+    "id" : "8A6ACEDE",
+    "lastKnownWriteTime" : 1588502093,
+    "last_content_update" : 1589719398477,
+    "path" : "C:/Users/Quark/Desktop/Simulation/Simulation.R",
+    "project_path" : "Simulation.R",
+    "properties" : {
+        "cursorPosition" : "30,44",
+        "scrollLine" : "11"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
